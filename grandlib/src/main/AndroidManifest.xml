@@ -1,0 +1,14 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dist="http://schemas.android.com/apk/distribution"
+    package="net.grand">
+
+    <dist:module dist:instant="true" />
+
+    <application>
+        <activity android:name="grand.grandlib.ParentActivity" />
+        <activity android:name="grand.grandlib.DialogActivity"
+            android:theme="@style/Theme.Transparent">
+        </activity>
+
+    </application>
+</manifest>

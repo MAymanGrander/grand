@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grand</string>
+    <string name="lib_programming_and_design">البرمجة والتصميم</string>
+    <string name="lib_call">مكالمه</string>
+    <string name="lib_whatsapp">واتساب</string>
+    <string name="exit">خروج</string>
+    <string name="lib_image_saved">تم حفظ الصورة</string>
+</resources>

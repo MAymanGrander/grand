@@ -1,0 +1,8 @@
+<resources>
+    <string name="lib_programming_and_design">Programming and Design</string>
+    <string name="lib_grand_site" translatable="false">www.2grand.net</string>
+    <string name="lib_grand_phone" translatable="false">+0201157771069</string>
+    <string name="lib_call">call</string>
+    <string name="lib_whatsapp">whatsapp</string>
+    <string name="lib_image_saved">Image saved</string>
+</resources>
